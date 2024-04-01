@@ -1,70 +1,70 @@
-# Getting Started with Create React App
+# 📺 YouTube Clone
+YouTube Clone is a full-stack application developed with React, Redux, Tailwind CSS, and Rapid API. It replicates YouTube's core features, offering users a familiar experience with dynamic content fetching and seamless navigation.
+## Tech Stack
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React, Redux, Tailwind CSS, Rapid API 
 
-## Available Scripts
 
-In the project directory, you can run:
+## Installation
 
-### `npm start`
+Install my-project with npm
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+```bash
+  npm install my-project
+  cd my-project
+```
+    
+## Run Locally
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Clone the project
 
-### `npm test`
+```bash
+  git clone https://github.com/imnitesh18/Youtube_Clone
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Go to the project directory
 
-### `npm run build`
+```bash
+  cd my-project
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Install dependencies
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+  npm install
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Start the server
 
-### `npm run eject`
+```bash
+  npm run start
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Developed a full-stack app mirroring YouTube’s core features using React, Redux, Tailwind CSS, and Rapid API.
+- Leveraged React for building the user interface, Redux for state management, Tailwind CSS for responsive design.
+- Integrated Rapid API to fetch and display dynamic content.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Screenshots
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Homepage :
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![Screenshot 2024-04-02 at 1 04 14 AM](https://github.com/imnitesh18/Youtube_Clone/assets/71972708/5cf7a56f-dec8-40d4-8531-085761451f75)
 
-### Code Splitting
+### SearchBar Result :
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![Screenshot 2024-04-02 at 1 24 03 AM](https://github.com/imnitesh18/Youtube_Clone/assets/71972708/a9a5de9e-aaa6-4aa7-b365-3541b2e4912e)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+## Demo
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+https://github.com/imnitesh18/Youtube_Clone/assets/71972708/fda68a85-1f0a-4d1b-bcff-d5f86319106b
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
