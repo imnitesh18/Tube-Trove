@@ -19,7 +19,7 @@ Install my-project with npm
 Clone the project
 
 ```bash
-  git clone https://github.com/imnitesh18/Youtube_Clone
+  git clone https://github.com/imnitesh18/Tube-Trove
 ```
 
 Go to the project directory
