@@ -1,5 +1,5 @@
-# 📺 YouTube Clone
-YouTube Clone is a full-stack application developed with React, Redux, Tailwind CSS, and Rapid API. It replicates YouTube's core features, offering users a familiar experience with dynamic content fetching and seamless navigation.
+# 📺 Tube Trove
+Tube Trove is a full-stack application developed with React, Redux, Tailwind CSS, and Rapid API. It replicates YouTube's core features, offering users a familiar experience with dynamic content fetching and seamless navigation.
 ## Tech Stack
 
 React, Redux, Tailwind CSS, Rapid API 
